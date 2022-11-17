@@ -11,5 +11,5 @@ pip install -r requirements.txt
 ```
 * Run the file by following typing following command in terminal
 ```sh
-python run.sh
+python run.py
 ```
