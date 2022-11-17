@@ -1,0 +1,6 @@
+tk
+pillow
+requests
+bs4
+matplotlib
+numpy
